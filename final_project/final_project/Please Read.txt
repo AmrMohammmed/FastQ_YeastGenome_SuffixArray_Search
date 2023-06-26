@@ -1,0 +1,3 @@
+N115-1n_S7_L001_R1.fastq
+
+this file is needed to run the code 

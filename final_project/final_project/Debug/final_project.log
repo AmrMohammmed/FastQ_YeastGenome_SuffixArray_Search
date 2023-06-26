@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\BIOIFORMATICS\Third Level\Second_Term\Algorithm in Bio\Final_Project\final_project\final_project\Source.cpp(222,18): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  final_project.vcxproj -> E:\BIOIFORMATICS\Third Level\Second_Term\Algorithm in Bio\Final_Project\final_project\Debug\final_project.exe

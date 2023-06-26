@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\essam.mohammed\desktop\project part1\project1\source.c(26): warning C4013: 'open' undefined; assuming extern returning int
+c:\users\essam.mohammed\desktop\project part1\project1\source.c(28): warning C4013: 'lseek' undefined; assuming extern returning int
+c:\users\essam.mohammed\desktop\project part1\project1\source.c(30): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\essam.mohammed\desktop\project part1\project1\source.c(34): warning C4013: 'read' undefined; assuming extern returning int
+c:\users\essam.mohammed\desktop\project part1\project1\source.c(44): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\essam.mohammed\desktop\project part1\project1\source.c(45): warning C4013: 'close' undefined; assuming extern returning int
+  Project1.vcxproj -> C:\Users\ESSAM.MOHAMMED\Desktop\Project part1\Debug\Project1.exe

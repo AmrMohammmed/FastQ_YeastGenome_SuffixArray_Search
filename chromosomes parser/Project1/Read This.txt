@@ -1,0 +1,5 @@
+Make Sure to Downlaod Yeast Genome Files from :
+http://sgd-archive.yeastgenome.org/sequence/S288C_reference/chromosomes/fasta/
+
+Then put chr.fasta files here
+ 
